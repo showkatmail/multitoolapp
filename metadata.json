@@ -1,0 +1,7 @@
+{
+  "name": "Gemini Multi-Tool Web App",
+  "description": "A powerful offline-first application that combines a rich text editor with AI-powered features and client-side image manipulation tools, all built with React and Gemini.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
